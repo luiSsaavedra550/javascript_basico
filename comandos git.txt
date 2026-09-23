@@ -13,3 +13,4 @@ Configuracion del usuario local git
 git config --local user.name "su nombre"
 git config --local user.email "su correo electronico registrado en github"
 (recuerden abrir las credenciales "Admin de credenciales" seleccionar "Credenciales de windows" y eliminar cualquier credencial relacionada con git o github).
+
